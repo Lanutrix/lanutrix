@@ -3,7 +3,7 @@
 - Student of the lyceum No. 4  (TMOL)
 - Participated and won in regional conferences and hackathons
 
-# My stack:
+## My stack:
 <p>
      <img alt = "Python" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python">
     <img alt = "Flask" src="https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask">
