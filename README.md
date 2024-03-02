@@ -31,6 +31,7 @@
 ![CodeWars](https://www.codewars.com/users/Lanutrix/badges/large)
 
 ## Follow me
+[![TelegramСhannel](https://img.shields.io/badge/-Telegram_Сhannel-090909?style=for-the-badge&logo=Telegram)](https://t.me/Lanutrix)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Lanutrix)
 [![Gmail](https://img.shields.io/badge/-Vkmail-090909?style=for-the-badge&logo=Vk)](mailto:dmodv@vk.com)
 
