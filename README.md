@@ -1,21 +1,22 @@
 # Hi there 👋
 
 <h1>
-  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" style="vertical-align: middle;">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c899442e-c949-43a9-928d-2441ebbec9cc/dcnilds-d3e6ac4d-d8a9-4565-8d1c-2c87ca0c8995.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9jODk5NDQyZS1jOTQ5LTQzYTktOTI4ZC0yNDQxZWJiZWM5Y2MvZGNuaWxkcy1kM2U2YWM0ZC1kOGE5LTQ1NjUtOGQxYy0yYzg3Y2EwYzg5OTUuZ2lmIn1dXX0.jYqlB1HjRNVaQjViekH-OIG1vwOZmBBNdNZvi3DzvnU" width="50" style="vertical-align: middle;">
   <span style="vertical-align: middle; margin-left: 5px;">About Me </span>
 </h1>
 
-- Middle Backend Developer and ML engineer 
-- Student of the Southern Federal Universit
-- Participated and won in regional conferences and hackathons
-- Contact: &nbsp;<a href="https://t.me/Taurip"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" width="60"></a>
+- Backend Developer
+- Computer Science Student at Southern Federal University
+- Participated and won in regional conferences and hackathons ( [1](https://github.com/Lanutrix/FaceOff), [2](https://github.com/Lanutrix/hackaton2025) )
+- Contact: &nbsp;<a href="https://t.me/odmitrii_job"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" width="60"></a>
 
 ## My Tech Stack
 
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### Tools & Technologies
 | Databases | Messaging | Containerization | Monitoring | Other |
@@ -25,5 +26,5 @@
 
 
 ## Algorithms achievements
-![CodeWars](https://www.codewars.com/users/Lanutrix/badges/large)
-
+![CodeWars](https://www.codewars.com/users/Lanutrix/badges/large) &nbsp;
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FLanutrix&color=orange)
